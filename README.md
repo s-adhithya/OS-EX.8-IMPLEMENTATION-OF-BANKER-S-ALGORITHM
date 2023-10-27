@@ -101,5 +101,5 @@ print(" P", ans[n - 1], sep="")
 ![image](https://github.com/s-adhithya/OS-EX.8-IMPLEMENTATION-OF-BANKER-S-ALGORITHM/assets/113497423/3d21e099-aa28-4b70-854e-594e3c0ffb07)
 
 
-RESULT:
+## RESULT:
 Thus the program for the bankers algorithm is implemented successfully.
